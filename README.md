@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jasonandrewth
-- 👀 I’m a Frontend Developer based in Berlin
-- 🌱 I’m specialized in React.js and Next.js as well as WebGL with THREE.js
+- 👀 I’m a Web Developer based in Berlin
 - 📫 How to reach me: jasonxandrewth@gmail.com
-- My Website: www.jason-andrew.com
+- My Website: https://www.jason-andrew.com
 
 
