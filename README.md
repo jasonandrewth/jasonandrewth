@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jasonandrewth
-- 👀 I’m a Developer based in Berlin
-- 📫 How to reach me: jasonxandrewth@gmail.com
-- My Website: https://www.jason-andrew.com
+- 👀 Web Dev & Computer Graphics based in Berlin
+- 📫 jasonxandrewth@gmail.com
+- 🌐 https://www.jason-andrew.com
 
 
